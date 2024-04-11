@@ -168,5 +168,8 @@
         android:layout_columnSpan="5"
         android:layout_gravity="fill_horizontal"
         android:layout_margin="5dp"/>
-
+    <TextView
+        android:text="2019038103"/>
+    <TextView
+        android:text="이재승"/>
 </GridLayout>
